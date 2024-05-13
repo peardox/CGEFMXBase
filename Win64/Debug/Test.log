@@ -1,0 +1,10 @@
+Log for "CGEFMXBase".
+  Started on 2024-05-13 at 18:12:57.
+  Castle Game Engine version: 7.0-alpha.snapshot.
+  Compiled with Delphi (Compiler Version 36).
+  Platform: Desktop, OS Version: Windows 11 (Version 23H2, OS Build 22631.3527, 64-bit Edition) (this exe is using 64-bit architecture).
+ZLib detected (version 1.2.3).
+LibPng detected (version 1.4.0).
+Rendering Initialized: OpenGL 4.6 (Nvidia) (modern rendering: True) (for more info: LogGLInformationVerbose:=true)
+Path: Program data path detected as "file:///C:/git/CGEFMXBase/data/"
+Envelope = TFloatRectangle: -1.27x-2.15 3.54x5.31
